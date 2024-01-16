@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spiros Maggioros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spirosmaggioros&label=Profile%20views&color=0e75b6&style=flat" alt="spirosmaggioros" /> </p>
-<h1 align="center"> Visit my website csrt.ieee.ntua.gr </h1>
+<a href="https://csrt.ieee.ntua.gr/" target="_blank" align="center">Visit my website</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spirosmaggioros" alt="spirosmaggioros" /></a> </p>
 
